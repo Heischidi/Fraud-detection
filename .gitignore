@@ -1,0 +1,12 @@
+# Excluded submission archive
+outputs/submission.zip
+submission.zip
+
+# Virtual environment & Python cache
+.venv/
+__pycache__/
+*.py[cod]
+~$*
+
+# Raw dataset exceeds GitHub's 100 MiB file size limit (143.84 MiB); see data/README.txt
+data/creditcard.csv

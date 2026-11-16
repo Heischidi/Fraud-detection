@@ -1,0 +1,4 @@
+category,original_count,duplicates_removed,deduplicated_count,pct_removed
+Total transactions,284807,1081,283726,0.379555277784605
+Fraud (Class=1),492,19,473,3.861788617886179
+Legitimate (Class=0),284315,1062,283253,0.37352936004079984
